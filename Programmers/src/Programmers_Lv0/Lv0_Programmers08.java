@@ -1,7 +1,7 @@
 package Programmers_Lv0;
 
 public class Lv0_Programmers08 {
-    public static int[] solution(int[] numbers) {
+    public int[] solution(int[] numbers) {
         int arrLength = numbers.length;
         int[] answer = new int[arrLength]; // 배열 크기 동적 선언
 
