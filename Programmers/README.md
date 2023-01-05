@@ -21,6 +21,7 @@
     | [치킨 쿠폰](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Programmers13.java)  | ✔️  |
     | [로그인 성공 ?](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Programmers14.java)  | ✔️  |
     | [안전지대](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SafeArea.java)  | ❌  |
+    | [컨트롤 제트](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ControlZ.java)  | ✔️  |
 
 > **References** 🤝
 > + <a href="https://programmers.co.kr/">Programmers 공식 사이트</a>
