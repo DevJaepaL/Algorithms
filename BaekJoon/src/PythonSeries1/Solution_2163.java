@@ -12,15 +12,13 @@ public class Solution_2163 {
         int n = sc.nextInt();
         int m = sc.nextInt();
         int choco = n * m;
-        int result = 0;
 
-        for(int i = 1; i <= choco; i++) {  
-            result += 1;
-        }
+        System.out.print(choco - 1);
+
         if(choco == 1) {
-            System.out.println(0);
+            System.out.print(0);
         }
-        else
-            System.out.print(result - 1);
+
+        sc.close();
     }
 }
