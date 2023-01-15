@@ -11,6 +11,6 @@
     + Lv.2
 
 
-+ [BaekJoon]()
-  + [CodeUP 기초 문제]()
++ [BaekJoon](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon)
+  + [Python 배우기 (1~50)](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
 
