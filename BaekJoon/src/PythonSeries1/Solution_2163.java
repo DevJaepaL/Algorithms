@@ -2,9 +2,7 @@
  *  백준 문제 2163 : 초콜릿 자르기
  *  Site : https://www.acmicpc.net/problem/2163
  */
-package AutomataSolution;
 import java.util.*;
-
 public class Solution_2163 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);

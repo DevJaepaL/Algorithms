@@ -2,9 +2,7 @@
  *  백준 문제 2530 : 인공지능 시계
  *  Site : https://www.acmicpc.net/problem/2530
  */
-package PythonSeries1;
 import java.util.*;
-
 public class Solution_2530 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
@@ -12,6 +10,7 @@ public class Solution_2530 {
         int m = sc.nextInt();
         int s = sc.nextInt();
         int timer = sc.nextInt();
+        sc.close();
 
         s += timer;
     
