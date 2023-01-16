@@ -12,5 +12,5 @@
 
 
 + [BaekJoon](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon)
-  + [Python 배우기 (1~50)](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/AutomataSolution)
+  + [Python 배우기 (1~50)](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
 
