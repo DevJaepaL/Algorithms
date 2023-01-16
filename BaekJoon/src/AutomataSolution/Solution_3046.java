@@ -2,7 +2,7 @@
  *  백준 문제 3046 : R2
  *  Site : https://www.acmicpc.net/problem/3046
  */
-package PythonSeries1;
+package AutomataSolution;
 import java.util.*;
 
 public class Solution_3046 {
