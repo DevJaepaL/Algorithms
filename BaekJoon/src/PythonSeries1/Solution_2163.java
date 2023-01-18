@@ -1,3 +1,4 @@
+package PythonSeries1;
 /*
  *  백준 문제 2163 : 초콜릿 자르기
  *  Site : https://www.acmicpc.net/problem/2163

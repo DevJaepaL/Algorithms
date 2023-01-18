@@ -1,3 +1,4 @@
+package PythonSeries1;
 /*
  *  백준 문제 2530 : 인공지능 시계
  *  Site : https://www.acmicpc.net/problem/2530

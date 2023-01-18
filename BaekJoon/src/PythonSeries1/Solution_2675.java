@@ -1,4 +1,4 @@
-
+package PythonSeries1;
 /*
  *  백준 문제 2675 : 문자열 반복
  *  Site : https://www.acmicpc.net/problem/2675

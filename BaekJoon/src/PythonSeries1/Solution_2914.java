@@ -1,3 +1,4 @@
+package PythonSeries1;
 /*
  *  백준 문제 2914 : 저작권
  *  Site : https://www.acmicpc.net/problem/2914
