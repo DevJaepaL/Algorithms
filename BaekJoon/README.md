@@ -3,9 +3,10 @@
 > **백준**의 코딩 테스트 문제들을 해결합니다.
 
 + [**Python 배우기 (1-50)**](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
-  + 총 *8* 문제 중 [ *8* **해결**  ✔️ | *0* **실패** ❌ ]
+  + 총 *9* 문제 중 [ *9* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [문제 1789 : 수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1789.java) | ✔️  |
     | [문제 2163 : 초콜릿 자르기](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2163.java) | ✔️  |
     | [문제 2530 : 인공지능 시계](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2530.java) | ✔️  |
     | [문제 2675 : 문자열 반복](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2675.java) | ✔️  |
