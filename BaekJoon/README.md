@@ -3,7 +3,7 @@
 > **백준**의 코딩 테스트 문제들을 해결합니다.
 
 + [**Python 배우기 (1-50)**](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
-  + 총 *7* 문제 중 [ *7* **해결**  ✔️ | *0* **실패** ❌ ]
+  + 총 *8* 문제 중 [ *8* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [문제 2163 : 초콜릿 자르기](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2163.java) | ✔️  |
@@ -14,6 +14,7 @@
     | [문제 3046 : R2](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_3046.java) | ✔️  |
     | [문제 5355 : 화성 수학](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5355.java) | ✔️  |
     | [문제 10817 : 세 수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10817.java) | ✔️  |
+    | [문제 11653 : 소인수분해](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_11653.java) | ✔️  |
     
 
 > **References** 🤝
