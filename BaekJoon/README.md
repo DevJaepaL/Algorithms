@@ -13,10 +13,12 @@
     | [문제 2675 : 문자열 반복](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2675.java) | ✔️  |
     | [문제 2914 : 저작권](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2914.java) | ✔️  |
     | [문제 2935 : 소음](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2935.java) | ✔️  |
-    | [문제 3046 : R2](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_3046.java) | ✔️  |
+    | [문제 3009 : 네 번째 점](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2935.java) | ✔️  |
+    | [문제 3046 : R2](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_3009.java) | ✔️  |
     | [문제 4101 : 크냐?](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_4101.java) | ✔️  |
     | [문제 5355 : 화성 수학](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5355.java) | ✔️  |
     | [문제 10039 : 평균 점수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10039.java) | ✔️  |
+    | [문제 10156 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10156.java) | ✔️  |
     | [문제 10817 : 세 수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10817.java) | ✔️  |
     | [문제 11653 : 소인수분해](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_11653.java) | ✔️  |
     
