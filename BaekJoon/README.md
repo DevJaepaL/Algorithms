@@ -23,10 +23,12 @@
     | [문제 5355 : 화성 수학](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5355.java) | ✔️  |
     | [문제 5717 : 상근이의 친구들](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5717.java) | ✔️  |
     | [문제 7567 : 그릇](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_7567.java) | ✔️  |
+    | [문제 9506 : 약수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_9506.java) | ✔️  |
     | [문제 9610 : 사분면](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_9610.java) | ✔️  |
     | [문제 10102 : 개표](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10102.java) | ✔️  |
     | [문제 10039 : 평균 점수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10039.java) | ✔️  |
     | [문제 10156 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10156.java) | ✔️  |
+    | [문제 10162 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10162.java) | ✔️  |
     | [문제 10817 : 세 수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10817.java) | ✔️  |
     | [문제 10886 : 0 = not cute / 1 = cute](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10886.java) | ✔️  |
     | [문제 10988 : 팰린드롬인지 확인하기](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10988.java) | ✔️  |
