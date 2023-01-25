@@ -3,7 +3,7 @@
 > **백준**의 코딩 테스트 문제들을 해결합니다.
 
 + [**Python 배우기 (1-50)**](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
-  + 총 *25* 문제 중 [ *25* **해결**  ✔️ | *0* **실패** ❌ ]
+  + 총 *27* 문제 중 [ *27* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [문제 1789 : 수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1789.java) | ✔️  |
@@ -27,8 +27,10 @@
     | [문제 9610 : 사분면](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_9610.java) | ✔️  |
     | [문제 10102 : 개표](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10102.java) | ✔️  |
     | [문제 10039 : 평균 점수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10039.java) | ✔️  |
+    | [문제 10103 : 주사위 게임](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10103.java) | ✔️  |
     | [문제 10156 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10156.java) | ✔️  |
     | [문제 10162 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10162.java) | ✔️  |
+    | [문제 10214 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10214.java) | ✔️  |
     | [문제 10817 : 세 수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10817.java) | ✔️  |
     | [문제 10886 : 0 = not cute / 1 = cute](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10886.java) | ✔️  |
     | [문제 10988 : 팰린드롬인지 확인하기](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10988.java) | ✔️  |
