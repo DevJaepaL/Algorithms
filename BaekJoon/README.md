@@ -3,7 +3,7 @@
 > **백준**의 코딩 테스트 문제들을 해결합니다.
 
 + [**Python 배우기 (1-50)**](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
-  + 총 *27* 문제 중 [ *27* **해결**  ✔️ | *0* **실패** ❌ ]
+  + 총 *28* 문제 중 [ *28* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [문제 1789 : 수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1789.java) | ✔️  |
@@ -34,6 +34,7 @@
     | [문제 10817 : 세 수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10817.java) | ✔️  |
     | [문제 10886 : 0 = not cute / 1 = cute](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10886.java) | ✔️  |
     | [문제 10988 : 팰린드롬인지 확인하기](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10988.java) | ✔️  |
+    | [문제 11557 : Yangjojang of The Year](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_11557.java) | ✔️  |
     | [문제 11653 : 소인수분해](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_11653.java) | ✔️  |
     
 
