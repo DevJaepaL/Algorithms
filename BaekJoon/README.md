@@ -3,7 +3,7 @@
 > **백준**의 코딩 테스트 문제들을 해결합니다.
 
 + [**Python 배우기 (1-50)**](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
-  + 총 *29* 문제 중 [ *29* **해결**  ✔️ | *0* **실패** ❌ ]
+  + 총 *31* 문제 중 [ *31* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [문제 1789 : 수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1789.java) | ✔️  |
@@ -22,6 +22,7 @@
     | [문제 5086 : 배수와 약수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5086.java) | ✔️  |
     | [문제 5355 : 화성 수학](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5355.java) | ✔️  |
     | [문제 5717 : 상근이의 친구들](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_5717.java) | ✔️  |
+    | [문제 7287 : 등록](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_7287.java) | ✔️  |
     | [문제 7567 : 그릇](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_7567.java) | ✔️  |
     | [문제 9506 : 약수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_9506.java) | ✔️  |
     | [문제 9610 : 사분면](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_9610.java) | ✔️  |
@@ -31,6 +32,7 @@
     | [문제 10156 : 과자](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10156.java) | ✔️  |
     | [문제 10162 : 전자레인지](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10162.java) | ✔️  |
     | [문제 10214 : 최소공배수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10214.java) | ✔️  |
+    | [문제 10699 : 오늘 날짜](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10699.java) | ✔️  |
     | [문제 10757 : 큰 수 A + B](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10757.java) | ✔️  |
     | [문제 10817 : 세 수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10817.java) | ✔️  |
     | [문제 10886 : 0 = not cute / 1 = cute](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_10886.java) | ✔️  |
