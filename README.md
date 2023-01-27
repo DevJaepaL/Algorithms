@@ -1,5 +1,7 @@
 # Algorithms 💡
 
+[![Solved.ac wocks3254](http://mazassumnida.wtf/api/v2/generate_badge?boj=wocks3254)](https://solved.ac/wocks3254)
+
 + Use Language : `Java` 
 + Reference Site : [Baekjoon](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/), [CodeTree](https://www.codetree.ai/missions)
 
