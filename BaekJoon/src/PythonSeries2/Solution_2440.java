@@ -5,14 +5,17 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
+
 public class Solution_2440 {
-    private static void stars(int n) throws IOException {
+    static void star(int N) throws IOException {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n - i; j++) {
+        int i = 0;
+        while (i < N) {
+            for(int j = 0; j < N - i; j++) {
                 bw.write("*");
             }
             bw.write("\n");
+            i--;
         }
 
         bw.flush();
@@ -20,8 +23,8 @@ public class Solution_2440 {
     }
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N = Integer.parseInt(br.readLine());
-        stars(N);
+        int stars = Integer.parseInt(br.readLine());
+        star(stars);
         br.close();
     }
 }
