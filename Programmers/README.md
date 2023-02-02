@@ -3,7 +3,7 @@
 > **프로그래머스**의 코딩 테스트 문제들을 해결합니다.
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *17* 문제 중 [ *15* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *18* 문제 중 [ *16* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [몫 구하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Programmers01.java) | ✔️  |
@@ -24,6 +24,7 @@
     | [컨트롤 제트](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ControlZ.java)  | ✔️  |
     | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)  | ✔️  |
     | [구슬을 나누는 경우의 수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_BallsFactorial.java)  | ✔️  |
+    | [다음에 올 숫자](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Arithmetic.java)  | ✔️  |
 
 > **References** 🤝
 > + <a href="https://programmers.co.kr/">Programmers 공식 사이트</a>
