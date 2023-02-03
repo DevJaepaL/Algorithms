@@ -8,10 +8,12 @@ import java.io.IOException;
 public class Solution_2748 {
     public static long[] DP = new long[91];
     public static long fibonacci(int A) {
-        if(A == 1 || A == 2)
+        if(A <= 2) {
             return 1;
-        if(DP[A] != 0)
+        } if (DP[A] != 0) {
             return DP[A];
+        }
+        
         DP[A] = fibonacci(A - 1)  + fibonacci(A - 2);
         return DP[A];
     }
