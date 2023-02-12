@@ -6,7 +6,7 @@
   + 총 *31* 문제 중 [ *31* **해결**  ✔️ | *0* **실패** ❌ ]
 
 + [**Python 배우기 (51-100)** - automata](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries2)
-  + 총 *50* 문제 중 [ *1* **해결**  ✔️ | *0* **실패** ❌ ]
+  + 총 *50* 문제 중 [ *8* **해결**  ✔️ | *0* **실패** ❌ ]
 
     
 
