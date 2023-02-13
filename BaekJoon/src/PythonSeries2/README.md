@@ -10,5 +10,6 @@
     | [문제 2748 : 피보나치 수 - 2](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries2/Solution_2748.java) | ✔️  |
     | [문제 5635 : 생일](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries2/Solution_5635.java) | ✔️  |
     | [문제 5565 : 영수증](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries2/Solution_5565.java) | ✔️  |
+    | [문제 10833 : 사과](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries2/Solution_10833.java) | ✔️  |
     | [문제 10948 : 내 학점을 구해줘](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries2/Solution_10948.java) | ✔️  |
     | [문제 11098 : 첼시를 도와줘 !](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries2/Solution_11098.java) | ✔️  |
