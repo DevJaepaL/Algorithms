@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 11557 : Yangjojang of The Year
  *  Site : https://www.acmicpc.net/problem/11557

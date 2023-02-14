@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 10757 : 큰 수 A + B
  *  Site : https://www.acmicpc.net/problem/10757

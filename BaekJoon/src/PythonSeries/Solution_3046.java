@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 3046 : R2
  *  Site : https://www.acmicpc.net/problem/3046

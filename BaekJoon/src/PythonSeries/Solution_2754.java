@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 2754 : 학점계산
  *  Site : https://www.acmicpc.net/problem/2754

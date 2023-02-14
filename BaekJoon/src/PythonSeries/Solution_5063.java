@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 5063 : TGN
  *  Site : https://www.acmicpc.net/problem/5063

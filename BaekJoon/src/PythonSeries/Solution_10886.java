@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 100886 : 0 = not cute / 1 = cute
  *  Site : https://www.acmicpc.net/problem/10886

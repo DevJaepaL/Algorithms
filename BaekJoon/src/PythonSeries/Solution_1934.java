@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 1934 : 최소공배수
  *  Site : https://www.acmicpc.net/problem/1934

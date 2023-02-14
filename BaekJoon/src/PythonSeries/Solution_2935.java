@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 2935 : 소음
  *  Site : https://www.acmicpc.net/problem/2935

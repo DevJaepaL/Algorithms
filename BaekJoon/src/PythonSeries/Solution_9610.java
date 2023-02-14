@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 9610 : 사분면
  *  Site : https://www.acmicpc.net/problem/9610

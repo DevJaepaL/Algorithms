@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 
 import java.util.*;
 

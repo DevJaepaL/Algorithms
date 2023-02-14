@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 import java.util.*;
 public class Solution_4101 {
     public static void main(String args[]) {

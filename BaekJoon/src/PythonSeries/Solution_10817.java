@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 10817 : 세 수
  *  Site : https://www.acmicpc.net/problem/10817

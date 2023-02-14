@@ -1,4 +1,4 @@
-package PythonSeries2;
+package PythonSeries;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

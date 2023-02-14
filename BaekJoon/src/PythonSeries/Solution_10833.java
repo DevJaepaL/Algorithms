@@ -1,4 +1,5 @@
-package PythonSeries2;
+
+package PythonSeries;
 
 import java.io.*;
 import java.util.StringTokenizer;

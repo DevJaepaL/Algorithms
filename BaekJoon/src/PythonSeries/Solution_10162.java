@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 10162 : 전자레인지
  *  Site : https://www.acmicpc.net/problem/10162

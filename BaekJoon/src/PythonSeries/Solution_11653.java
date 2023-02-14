@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 11653 : 소인수분해
  *  Site : https://www.acmicpc.net/problem/11653

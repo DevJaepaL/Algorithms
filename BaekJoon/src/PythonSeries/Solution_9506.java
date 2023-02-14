@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 
 /*
  *  백준 문제 9506 : 약수들의 합

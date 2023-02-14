@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 10988 : 팰린드롬인지 확인하기
  *  Site : https://www.acmicpc.net/problem/10988

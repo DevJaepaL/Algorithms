@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 5086 : 배수와 약수
  *  Site : https://www.acmicpc.net/problem/5086

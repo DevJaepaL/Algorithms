@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 2476 : 주사위 게임
  *  Site : https://www.acmicpc.net/problem/2476

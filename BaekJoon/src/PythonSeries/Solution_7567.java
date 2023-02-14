@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 7567 : 그릇
  *  Site : https://www.acmicpc.net/problem/7567

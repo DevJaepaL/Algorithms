@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 5355 : 화성 수학
  *  Site : https://www.acmicpc.net/problem/5355

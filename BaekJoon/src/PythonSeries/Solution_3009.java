@@ -1,4 +1,4 @@
-package PythonSeries1;
+package PythonSeries;
 /*
  *  백준 문제 3009 : 네 번째 점
  *  Site : https://www.acmicpc.net/problem/3009
