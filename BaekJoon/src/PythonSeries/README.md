@@ -3,6 +3,7 @@
 + 총 *40* 문제 중 [ *40* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [문제 1152 : 단어의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1152.java) | ✔️  |
     | [문제 1789 : 수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1789.java) | ✔️  |
     | [문제 1934 : 최소공배수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_1934.java) | ✔️  |
     | [문제 2163 : 초콜릿 자르기](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries1/Solution_2163.java) | ✔️  |
