@@ -11,8 +11,7 @@
 
 
 + **[BaekJoon](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon)**
-  + [Python 배우기 (1~50)](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries1)
-  + [Python 배우기 (51~100)](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries2)
+  + [BaekJoon `Bronze 5 ~ Silver 1` 문제 모음](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries)
 
 ___
 
