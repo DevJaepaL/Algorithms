@@ -1,6 +1,6 @@
 ## BaekJoon `Bronze 5 ~ Silver 1` 문제 모음
 
-+ 총 *41* 문제 중 [ *41* **해결**  ✔️ | *0* **실패** ❌ ]
++ 총 *42* 문제 중 [ *42* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [문제 1152 : 단어의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_1152.java) | ✔️  |
@@ -20,6 +20,7 @@
     | [문제 5063 : TGN](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_5063.java) | ✔️  |
     | [문제 5086 : 배수와 약수](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_5086.java) | ✔️  |
     | [문제 5355 : 화성 수학](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_5355.java) | ✔️  |
+    | [문제 5522 : 카드 게임](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_5522.java) | ✔️  |
     | [문제 5717 : 상근이의 친구들](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_5717.java) | ✔️  |
     | [문제 7287 : 등록](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_7287.java) | ✔️  |
     | [문제 7567 : 그릇](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_7567.java) | ✔️  |
