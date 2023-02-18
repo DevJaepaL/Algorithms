@@ -24,6 +24,7 @@
     | [문제 5717 : 상근이의 친구들](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_5717.java) | ✔️  |
     | [문제 7287 : 등록](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_7287.java) | ✔️  |
     | [문제 7567 : 그릇](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_7567.java) | ✔️  |
+    | [문제 9325 : 얼마?](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_9325.java) | ✔️  |
     | [문제 9506 : 약수들의 합](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_9506.java) | ✔️  |
     | [문제 9610 : 사분면](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_9610.java) | ✔️  |
     | [문제 10102 : 개표](https://github.com/DevJaepaL/Algorithms/blob/main/BaekJoon/src/PythonSeries/Solution_10102.java) | ✔️  |
