@@ -6,8 +6,7 @@
 
 + **<a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers">Programmers</a>**
     + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">Lv.0</a>
-    + Lv.1
-    + Lv.2
+    + [연습 문제 및 코딩 테스트 문제](https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/SkillCheckTest)
 
 
 + **[BaekJoon](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon)**
