@@ -1,4 +1,4 @@
-package Programmers_Lv0;
+package SkillCheckTest;
 
 import java.util.ArrayList;
 import java.util.Collections;
