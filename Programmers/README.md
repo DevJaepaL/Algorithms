@@ -10,9 +10,12 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *18* 문제 중 [ *16* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *20* 문제 중 [ *20* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [문자열 내 p와 y의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_StringCnt.java) | ✔️  |
+    | [짝수의 합](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_EvenNum.java) | ✔️  |
+    | [나이 출력](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_PrintAge.java) | ✔️  |
     | [몫 구하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Programmers01.java) | ✔️  |
     | [두 수의 합](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Programmers02.java)  | ✔️  |
     | [두 수의 차](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Programmers03.java)   | ✔️  |
