@@ -10,9 +10,11 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *20* 문제 중 [ *20* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *22* 문제 중 [ *22* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [순서쌍의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_OrderedPair.java) | ✔️  |
+    | [의료 순서 정하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Medical.java) | ✔️  |
     | [배열 거꾸로 출력](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ReverseArr.java) | ✔️  |
     | [양꼬치](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Lamb.java) | ✔️  |
     | [문자열 내 p와 y의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_StringCnt.java) | ✔️  |
