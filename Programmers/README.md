@@ -13,6 +13,8 @@
   + 총 *29* 문제 중 [ *27* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [문자열 뒤집기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ReverseStr.java) | ✔️  |
+    | [배열의 평균값](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ArrAvg.java) | ✔️  |
     | [각도기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Angle.java) | ✔️  |
     | [인덱스 바꾸기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Index.java) | ✔️  |
     | [약수 구하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Measure.java) | ✔️  |
