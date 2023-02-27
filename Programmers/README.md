@@ -6,14 +6,15 @@
   + 총 *44* 문제 중 [ *3* **해결**  ✔️ | *1* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
-    | [프로그래머스 스킬 체크 : 굿 스타터](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/SkillCheckTest.java) | **테스트 통과** ✅  |
+    | [프로그래머스 스킬 체크 : 굿 스타터](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CheckTest_0227.java) | **테스트 통과** ✅  |
     | [Divisor Array](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/SkillCheckTest.java) | ❌  |
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *29* 문제 중 [ *27* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *30* 문제 중 [ *30* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [문자열 자르기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ArrCut.java) | ✔️  |
     | [문자열 뒤집기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ReverseStr.java) | ✔️  |
     | [배열의 평균값](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ArrAvg.java) | ✔️  |
     | [각도기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Angle.java) | ✔️  |
