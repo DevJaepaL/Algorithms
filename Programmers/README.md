@@ -3,7 +3,7 @@
 > **프로그래머스**의 코딩 테스트 문제들을 해결합니다.
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/SkillCheckTest">**스킬 테스트**</a>
-  + 총 *44* 문제 중 [ *3* **해결**  ✔️ | *1* **실패** ❌ ]
+  + 총 *4* 문제 중 [ *3* **해결**  ✔️ | *1* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
     | [프로그래머스 스킬 체크 : 굿 스타터](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CheckTest_0227.java) | **테스트 통과** ✅  |
@@ -11,9 +11,11 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *30* 문제 중 [ *30* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *36* 문제 중 [ *34* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [피자 나누기(3)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SlicePizza.java) | ✔️  |
+    | [최댓값 만들기(1)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_MaxArr.java) | ✔️  |
     | [문자열 자르기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ArrCut.java) | ✔️  |
     | [문자열 뒤집기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ReverseStr.java) | ✔️  |
     | [배열의 평균값](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_ArrAvg.java) | ✔️  |
