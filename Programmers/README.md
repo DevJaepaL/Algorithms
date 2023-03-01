@@ -11,9 +11,10 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *37* 문제 중 [ *35* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *38* 문제 중 [ *36* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [삼각형의 완성조건 (1)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Triangle.java) | ✔️  |
     | [배열의 유사도](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SimliarArr.java) | ✔️  |
     | [피자 나누기(3)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SlicePizza.java) | ✔️  |
     | [최댓값 만들기(1)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_MaxArr.java) | ✔️  |
