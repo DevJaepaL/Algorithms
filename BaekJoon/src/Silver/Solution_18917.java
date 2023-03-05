@@ -6,14 +6,14 @@ import java.util.Scanner;
 
 public class Solution_18917 {
     public static void solution() {
+        int sumVal = 0;
+        int xorVal = 0;
         Scanner sc = new Scanner(System.in);
         int QUERY = sc.nextInt();
+        ArrayList<Integer> queryArr = new ArrayList<>(QUERY);
+        queryArr.add(0, 0);
         for(int i = 1; i < QUERY; i++) 
         {
-            int sumVal = 0;
-            int xorVal = 0;
-            ArrayList<Integer> queryArr = new ArrayList<>(QUERY);
-            queryArr.add(0, 0);
             int querySelect = sc.nextInt();
             int xValue = querySelect <= 2 ? sc.nextInt() : 0;
             
@@ -33,7 +33,7 @@ public class Solution_18917 {
                     break;
 
                 case 3:
-                    for(int index : queryArr) {
+                    for(int index = 0; i < queryArr.size(); index++) {
                         index = queryArr.get(index);
                         sumVal += index;
                     }
@@ -48,6 +48,8 @@ public class Solution_18917 {
                     break;
             }
         }
+
+        sc.close();
     }
 
     public static void main(String[] args) {
