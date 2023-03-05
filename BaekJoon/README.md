@@ -5,6 +5,8 @@
 + [BaekJoon `Bronze 5 ~ Silver 1` 문제 모음](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries)
   + 총 *42* 문제 중 [ *42* **해결**  ✔️ | *0* **실패** ❌ ]
 
++ [Silver 문제 모음](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/Silver)
+  + 총 *2* 문제 중 [ *1* **해결**  ✔️ | *1* **실패** ❌ ]
     
 
 > **References** 🤝
