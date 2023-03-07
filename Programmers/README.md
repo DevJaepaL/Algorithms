@@ -14,6 +14,7 @@
   + 총 *41* 문제 중 [ *39* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [피자 나눠 먹기(1)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SlicePizza1.java) | ✔️  |
     | [7의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Count7.java) | ✔️  |
     | [OX 퀴즈](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_oxQuiz.java) | ✔️  |
     | [문자열 정렬 (2)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SortString.java) | ✔️  |
