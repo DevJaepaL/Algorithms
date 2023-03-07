@@ -11,9 +11,10 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *40* 문제 중 [ *38* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *41* 문제 중 [ *39* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [7의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Count7.java) | ✔️  |
     | [OX 퀴즈](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_oxQuiz.java) | ✔️  |
     | [문자열 정렬 (2)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_SortString.java) | ✔️  |
     | [삼각형의 완성조건 (1)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Triangle.java) | ✔️  |
