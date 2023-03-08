@@ -11,6 +11,7 @@
 
 + **[BaekJoon](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon)**
   + [BaekJoon `Bronze 5 ~ Silver 1` 문제 모음](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/PythonSeries)
+  + [실버 문제](https://github.com/DevJaepaL/Algorithms/tree/main/BaekJoon/src/Silver)
 
 ___
 
