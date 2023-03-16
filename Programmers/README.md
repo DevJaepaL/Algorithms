@@ -14,6 +14,7 @@
   + 총 *47* 문제 중 [ *45* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [숫자 찾기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_FindInteger.java) | ✔️  |
     | [문자열 계산하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_StringCalc.java) | ✔️  |
     | [이진수 더하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_BinarySum.java) | ✔️  |
     | [K의 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Kcnt.java) | ✔️  |
