@@ -11,9 +11,11 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**Programmers Lv.0**</a>
-  + 총 *50* 문제 중 [ *48* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *52* 문제 중 [ *50* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [키 비교하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Height.java) | ✔️  |
+    | [피자 조각 세기(2)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Pizza2.java) | ✔️  |
     | [중복 숫자 세기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_CntNumber.java) | ✔️  |
     | [옷가게 할인 받기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_PriceSale.java) | ✔️  |
     | [숫자 찾기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_FindInteger.java) | ✔️  |
