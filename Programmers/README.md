@@ -17,9 +17,11 @@
     | [캐릭터의 좌표](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/SkillCheckTest/CharsCoord.java) | ✔️  |
 
 + <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv0">**프로그래머스 레벨 - 0**</a>
-  + 총 *52* 문제 중 [ *50* **해결**  ✔️ | *2* **실패** ❌ ]
+  + 총 *54* 문제 중 [ *52* **해결**  ✔️ | *2* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [짝수 홀수 개수](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_EvenOdd.java) | ✔️  |
+    | [정수 배열 뒤집기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_IntArr.java) | ✔️  |
     | [키 비교하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Height.java) | ✔️  |
     | [피자 조각 세기(2)](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_Pizza2.java) | ✔️  |
     | [중복 숫자 세기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv0/Lv0_CntNumber.java) | ✔️  |
