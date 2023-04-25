@@ -2,10 +2,11 @@
 
 > **프로그래머스**의 코딩 테스트 문제들을 해결합니다.
 
-+ <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv1">**프로그래머스 레벨 - 1**</a>
-  + 총 *3* 문제 중 [ *3* **해결**  ✔️ | *0* **실패** ❌ ]
++ <a href="https://github.com/DevJaepaL/Algorithms/tree/main/Programmers/src/Programmers_Lv1">**프로그래머스 레벨 - 1 & 트레이닝**</a>
+  + 총 *4* 문제 중 [ *4* **해결**  ✔️ | *0* **실패** ❌ ]
     | 문제 📜 | 해결 💡 |
     |---|---|
+    | [두 수의 연산값 비교하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Training/CheckInt.java) | ✅ |
     | [중복된 숫자는 싫어](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv1/Lv1_Dist.java) | ✅ |
     | [평균 구하기](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv1/Lv1_Avg.java) | ✅ |
     | [수박](https://github.com/DevJaepaL/Algorithms/blob/main/Programmers/src/Programmers_Lv1/Lv1_WaterMelon.java) | ✅ |
